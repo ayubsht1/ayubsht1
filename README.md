@@ -5,12 +5,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayubsht1" alt="ayubsht1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayub-stha-314987328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayub-stha-314987328" height="30" width="40" /></a>
-  Email:
+<div>
  <a href="mailto:ayubsht1@gmail.com" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Gmail_Icon.png" alt="Gmail" height="20" width="20" />
   ayubsht1@gmail.com
 </a>
+</a>
+</div>
+<p align="left">
+<a href="https://linkedin.com/in/ayub-stha-314987328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayub-stha-314987328" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
