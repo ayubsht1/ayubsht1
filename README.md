@@ -7,6 +7,9 @@ I'm a **BCA student** passionate about building robust web applications and lear
 - **Frameworks:** Django  
 - **Other Skills:** HTML, CSS, Bootstrap, Tailwind
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayubsht1&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsht1&hide_progress=true&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsht1&hide=css&show_icons=true&bg_color=00000000)
 <!--
 **ayubsht1/ayubsht1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
