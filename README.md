@@ -19,5 +19,5 @@ ayubsht1@gmail.com
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ayubsht1&show_icons=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" align="right">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayubsht1&hide_progress=true&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayubsht1&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
