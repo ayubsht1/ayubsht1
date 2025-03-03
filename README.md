@@ -3,13 +3,12 @@
 <h4 align="center">I'm a BCA student passionate about building robust web applications and learning new technologies. Currently, I'm exploring the world of Python and Django to deepen my backend development skills.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayubsht1" alt="ayubsht1" /></a> </p>
-
-<strong>email:</strong> <a href="mailto:ayubsht1@gmail.com" target="blank">
-ayubsht1@gmail.com
-</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayub-stha-314987328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayub-stha-314987328" height="30" width="40" /></a>
+  <a href="mailto:ayubsht1@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" align="center">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +20,5 @@ ayubsht1@gmail.com
 <a href="https://github.com/anuraghazra/convoychat" align="right">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayubsht1&hide_progress=true&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
+<br/>
+
