@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayubsht1&label=Profile%20views&color=8A2BE2&style=flat" alt="ayubsht1" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayubsht1" alt="ayubsht1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayubsht1" alt="ayubsht1" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayub-stha-314987328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayub-stha-314987328" height="30" width="40" /></a>
@@ -24,4 +24,18 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayubsht1&hide_progress=true&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
 <br/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
