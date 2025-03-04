@@ -24,5 +24,8 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayubsht1&hide_progress=true&layout=compact&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
 <br/>
+<img align="center" src="https://raw.githubusercontent.com/ayubsht1/ayubsht1/output/github-snake-dark.svg" alt="Snake animation" />
+
+
 
 
