@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayubshrestha</h1>
+<h1 align="center">Hello 👋, I'm Ayub Shrestha</h1>
 
 <h4 align="center">I'm a BCA student passionate about building robust web applications and learning new technologies. Currently, I'm exploring the world of Python and Django to deepen my backend development skills.</h4>
 <p align="left"> 
