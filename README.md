@@ -37,9 +37,10 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayubsht1&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsht1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubsht1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubsht1&theme=radical" />
 </div>
+
 <hr/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayubsht1/ayubsht1/output/github-snake-dark.svg" alt="Snake animation" />
