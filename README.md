@@ -6,8 +6,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayubsht1&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ayubsht1&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=10" />
+</a> 
 </p>
 <hr/>
 <h3 align="left">📬 Connect with me:</h3>
@@ -37,8 +37,8 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ayubsht1&show_icons=true&theme=radical&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsht1&layout=compact&theme=radical&hide_progress=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayubsht1&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsht1&theme=radical" />
 </div>
 <hr/>
 <p align="center">
