@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ayub Shrestha</h1>
-<h4 align="center">🚀 Passionate Web Developer | 💻 Exploring Python & Django</h4>
+<h4 align="center">🚀 Web Developer (Python & Django Developer) | 💻 Currently Exporing React To Update My Frontend Skills</h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ayubsht1&label=Profile%20views&color=8A2BE2&style=flat" alt="ayubsht1" />
