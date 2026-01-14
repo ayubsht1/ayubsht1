@@ -4,11 +4,11 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ayubsht1&label=Profile%20views&color=8A2BE2&style=flat" alt="ayubsht1" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ayubsht1&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=10" />
 </a> 
-</p>
+</p> -->
 <hr/>
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
