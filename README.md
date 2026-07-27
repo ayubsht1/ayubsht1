@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayub Shrestha</h1>
-<h3 align="center">🚀 Web Developer (Python & Django) | 💻 Exploring React to level up my frontend stack</h3>
-
+<h3 align="center">⚡ Full-Stack Developer | Python, Django & React</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayubsht1&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="ayubsht1 profile views" />
 </p>
