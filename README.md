@@ -43,11 +43,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ayubsht1&theme=radical&hide_border=true"
-    alt="GitHub Streak"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubsht1&theme=tokyonight" 
+    alt="GitHub Summary Stats" 
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubsht1&theme=radical" alt="Repos per Language" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubsht1&theme=tokyonight" 
+    alt="Repos per Language" 
+  />
 </p>
 
 ---
